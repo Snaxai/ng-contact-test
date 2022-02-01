@@ -1,0 +1,18 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "avatar": "https://avatars.dicebear.com/api/adventurer-neutral/Daniel.svg",
+            "name": "Daniel",
+            "email": "Daniel@hotmail.com",
+            "phone": "123123",
+            "address": {
+                "street": "Vesterøya 141",
+                "city": "Krsand",
+                "country": "norway"
+            },
+            "deleted": false,
+            "createdAt": 1643716302439
+        }
+    ]
+}
